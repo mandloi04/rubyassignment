@@ -1,0 +1,411 @@
+#Output Task 1
+
+Aircraft coordinates:
+x-coordinate is:[1, 2, 3, 4, 5, 6, 7, 8, 9]
+y-coordinate is:[9, 8, 7, 6, 5, 4, 3, 2, 1]
+Aircraft 1 coordinates:
+x-coordinate is:[1]
+y-coordinate is:[2]
+Aircraft 2 coordinates:
+x-coordinate is:[3]
+y-coordinate is:[4]
+Aircraft 3 coordinates:
+x-coordinate is:[5]
+y-coordinate is:[6]
+Aircraft 4 coordinates:
+x-coordinate is:[7]
+y-coordinate is:[8]
+Aircraft 5 coordinates:
+x-coordinate is:[9]
+y-coordinate is:[10]
+
+#Output task 2
+
+Initial X-Coord: 0
+Initial Y-Coord: 0
+Moved Right..
+Moved Up..
+Moved Up..
+Moved Right..
+Moved Left..
+Moved Down..
+Moved Up..
+Moved Down..
+Moved Right..
+Moved Down..
+Moved Up..
+Final X-Coord: 2
+Final Y-Coord: 1
+
+#Output task 3
+
+Creating New Aircraft Object: 0
+New Aircraft Object Has Just Been Initalized: 0
+Initial X-Coord:0
+Initial Y-Coord: 0
+Creating New Aircraft Object: 1
+New Aircraft Object Has Just Been Initalized: 1
+Initial X-Coord:0
+Initial Y-Coord: 0
+Creating New Aircraft Object: 2
+New Aircraft Object Has Just Been Initalized: 2
+Initial X-Coord:0
+Initial Y-Coord: 0
+Creating New Aircraft Object: 3
+New Aircraft Object Has Just Been Initalized: 3
+Initial X-Coord:0
+Initial Y-Coord: 0
+Creating New Aircraft Object: 4
+New Aircraft Object Has Just Been Initalized: 4
+Initial X-Coord:0
+Initial Y-Coord: 0
+Aircraft Instance 0 has moved LEFT 
+Aircraft Instance 0 has moved UP 
+Aircraft Instance 0 has moved UP 
+Aircraft Instance 0 has moved RIGHT 
+Aircraft Instance 1 has moved UP
+Aircraft Instance 1 has moved LEFT 
+Aircraft Instance 1 has moved RIGHT
+Aircraft Instance 2 has moved DOWN
+Aircraft Instance 2 has moved DOWN 
+Aircraft Instance 2 has moved UP
+Aircraft Instance 2 has moved RIGHT
+Aircraft Instance 2 has moved LEFT
+Aircraft Instance 3 has moved RIGHT
+Aircraft Instance 3 has moved RIGHT
+Aircraft Instance 3 has moved RIGHT
+Aircraft Instance 3 has moved DOWN
+Aircraft Instance 4 has moved LEFT 
+Aircraft Instance 4 has moved RIGHT 
+Aircraft Instance 4 has moved RIGHT 
+Aircraft Instance 4 has moved RIGHT 
+Aircraft Instance 4 has moved LEFT 
+Aircraft Instance 4 has moved UP 
+Aircraft Instance 4 has moved UP 
+Aircraft Instance 4 has moved DOWN
+
+Aircraft [0]
+Final X-Coord:0
+Final Y-Coord: 2
+
+Aircraft [1]
+Final X-Coord:0
+Final Y-Coord: 1
+
+Aircraft [2]
+Final X-Coord:0
+Final Y-Coord: -1
+
+Aircraft [3]
+Final X-Coord:3
+Final Y-Coord: -1
+
+Aircraft [4]
+Final X-Coord:1
+Final Y-Coord: 1
+
+#Output task 4
+
+Creating New Aircraft Object: 0
+New Aircraft Object Has Just Been Initalized: 0
+Initial X-Coord:0
+Initial Y-Coord: 0
+Moved Left..
+Moved Right..
+Moved Down..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Down..
+Moved Down..
+Moved Right..
+Moved Down..
+Moved Up..
+Creating New Aircraft Object: 1
+New Aircraft Object Has Just Been Initalized: 1
+Initial X-Coord:11
+Initial Y-Coord: 2
+Moved Left..
+Moved Right..
+Moved Down..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Down..
+Moved Down..
+Moved Right..
+Moved Down..
+Moved Up..
+Creating New Aircraft Object: 2
+New Aircraft Object Has Just Been Initalized: 2
+Initial X-Coord:9
+Initial Y-Coord: 2
+Moved Left..
+Moved Right..
+Moved Down..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Down..
+Moved Down..
+Moved Right..
+Moved Down..
+Moved Up..
+Creating New Aircraft Object: 3
+New Aircraft Object Has Just Been Initalized: 3
+Initial X-Coord:1
+Initial Y-Coord: 52
+Moved Left..
+Moved Right..
+Moved Down..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Down..
+Moved Down..
+Moved Right..
+Moved Down..
+Moved Up..
+Creating New Aircraft Object: 4
+New Aircraft Object Has Just Been Initalized: 4
+Initial X-Coord:20
+Initial Y-Coord: 4
+Moved Left..
+Moved Right..
+Moved Down..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Down..
+Moved Down..
+Moved Right..
+Moved Down..
+Moved Up..
+
+Aircraft [0]
+Final X-Coord:1
+Final Y-Coord: -2
+
+Aircraft [1]
+Final X-Coord:12
+Final Y-Coord: 0
+
+Aircraft [2]
+Final X-Coord:10
+Final Y-Coord: 0
+
+Aircraft [3]
+Final X-Coord:2
+Final Y-Coord: 50
+
+Aircraft [4]
+Final X-Coord:21
+Final Y-Coord: 2
+
+#Output task 5
+
+Creating New Aircraft Object: 0
+New Aircraft Object Has Just Been Initalized: 0
+Initial X-Coord:1
+Initial Y-Coord: 1
+New Boeing 747 Object Has Just Been Iniitalized: 0
+X-Coord:5
+Y-Coord: 8
+Moved Right..
+Moved Right..
+Moved Up..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Up..
+Moved Down..
+Moved Up..
+Moved Down..
+Moved Up..
+Creating New Aircraft Object: 1
+New Aircraft Object Has Just Been Initalized: 1
+Initial X-Coord:12
+Initial Y-Coord: 2
+New Boeing 747 Object Has Just Been Iniitalized: 1
+X-Coord:9
+Y-Coord: 14
+Moved Right..
+Moved Right..
+Moved Up..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Up..
+Moved Down..
+Moved Up..
+Moved Down..
+Moved Up..
+Creating New Aircraft Object: 2
+New Aircraft Object Has Just Been Initalized: 2
+Initial X-Coord:20
+Initial Y-Coord: 15
+New Boeing 747 Object Has Just Been Iniitalized: 2
+X-Coord:43
+Y-Coord: 6
+Moved Right..
+Moved Right..
+Moved Up..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Up..
+Moved Down..
+Moved Up..
+Moved Down..
+Moved Up..
+Creating New Aircraft Object: 3
+New Aircraft Object Has Just Been Initalized: 3
+Initial X-Coord:9
+Initial Y-Coord: 4
+New Boeing 747 Object Has Just Been Iniitalized: 3
+X-Coord:64
+Y-Coord: 60
+Moved Right..
+Moved Right..
+Moved Up..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Up..
+Moved Down..
+Moved Up..
+Moved Down..
+Moved Up..
+Creating New Aircraft Object: 4
+New Aircraft Object Has Just Been Initalized: 4
+Initial X-Coord:23
+Initial Y-Coord: 19
+New Boeing 747 Object Has Just Been Iniitalized: 4
+X-Coord:9
+Y-Coord: 50
+Moved Right..
+Moved Right..
+Moved Up..
+Moved Right..
+Moved Left..
+Moved Up..
+Moved Up..
+Moved Down..
+Moved Up..
+Moved Down..
+Moved Up..
+
+Aircraft [0]
+Final X-Coord:3
+Final Y-Coord: 4
+
+Aircraft [1]
+Final X-Coord:14
+Final Y-Coord: 5
+
+Aircraft [2]
+Final X-Coord:22
+Final Y-Coord: 18
+
+Aircraft [3]
+Final X-Coord:11
+Final Y-Coord: 7
+
+Aircraft [4]
+Final X-Coord:25
+Final Y-Coord: 22
+
+#Output task 6
+
+Creating New Aircraft Object: 0
+New Aircraft Object Has Just Been Initalized: 0
+Initial X-Coord:51
+Initial Y-Coord: 18
+New Boeing 747 Object Has Just Been Initalized: 0
+X-Coord:1
+Y-Coord: 6
+Creating New Aircraft Object: 1
+New Aircraft Object Has Just Been Initalized: 1
+Initial X-Coord:1
+Initial Y-Coord: 11
+New Boeing 747 Object Has Just Been Initalized: 1
+X-Coord:9
+Y-Coord: 8
+Creating New Aircraft Object: 2
+New Aircraft Object Has Just Been Initalized: 2
+Initial X-Coord:13
+Initial Y-Coord: 2
+New Boeing 747 Object Has Just Been Initalized: 2
+X-Coord:7
+Y-Coord: 39
+Creating New Aircraft Object: 3
+New Aircraft Object Has Just Been Initalized: 3
+Initial X-Coord:10
+Initial Y-Coord: 5
+New Boeing 747 Object Has Just Been Initalized: 3
+X-Coord:7
+Y-Coord: 3
+Creating New Aircraft Object: 4
+New Aircraft Object Has Just Been Initalized: 4
+Initial X-Coord:10
+Initial Y-Coord: 7
+New Boeing 747 Object Has Just Been Initalized: 4
+X-Coord:5
+Y-Coord: 2
+
+Aircraft [0]
+Final X-Coord:51
+Final Y-Coord: 18
+
+Aircraft [1]
+Final X-Coord:1
+Final Y-Coord: 11
+
+Aircraft [2]
+Final X-Coord:13
+Final Y-Coord: 2
+
+Aircraft [3]
+Final X-Coord:10
+Final Y-Coord: 5
+
+Aircraft [4]
+Final X-Coord:10
+Final Y-Coord: 7
+
+Aircraft 
+0
+Starting from: (51,18)
+Headed to: (1,6)
+We have arrived
+Acceleration Constant: 1
+
+Aircraft 
+1
+Starting from: (1,11)
+Headed to: (9,8)
+9,8.0
+10,7.625
+We have arrived
+Acceleration Constant: 1
+
+Aircraft 
+2
+Starting from: (13,2)
+Headed to: (7,39)
+We have arrived
+Acceleration Constant: 1
+
+Aircraft 
+3
+Starting from: (10,5)
+Headed to: (7,3)
+We have arrived
+Acceleration Constant: 1
+
+Aircraft 
+4
+Starting from: (10,7)
+Headed to: (5,2)
+We have arrived
+Acceleration Constant: 1
